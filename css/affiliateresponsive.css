@@ -1,0 +1,286 @@
+@media(max-width:439px){
+    .armf9lkb {
+        justify-content: center;
+    }
+    .posrelaffoj5nc {
+        width: 22em;
+    }
+    .refckg9342nxaf {
+        max-width: 100%;
+    }
+}
+@media(max-width:834px){
+    .armf9lkb {
+        grid-auto-flow: unset;
+    }
+    .affrow9t4jds {
+        grid-auto-flow: row;
+    }
+    .aff5hfsjaxfr {
+        grid-auto-flow: row;
+    }
+}
+@media(max-width:1279px) and (min-width:1050px){
+    .armf9lkb {
+        grid-auto-flow: unset;
+    }
+    .affrow9t4jds {
+        grid-auto-flow: row;
+    }
+    .aff5hfsjaxfr {
+        grid-auto-flow: row;
+    }
+}
+@media(max-width:1191px){
+    /* Footer-section */
+    .jkj92olmfNK2Rxf {
+        row-gap: 0 !important;
+        border-bottom: none !important;
+        padding-bottom: 0 !important;
+    }
+    footer {
+        padding: 0 !important;
+    }
+    .jkj92olmfNK2Rxf {
+        margin-bottom: 0 !important;
+        text-align: center;
+    }
+    .smo93iui2knfl:nth-of-type(5) {
+        grid-area: unset;
+    }
+    .mrgl40h9654i353 {
+        margin-left: 0;
+    }
+    .tfg59309325324P {
+        display: block;
+    }
+    
+}
+@media(max-width:1049px){
+    /* Main-content-control */
+    .whl59bn2kcao2 {
+        width: 100% !important;
+    }
+    .tmnr9xb2la {
+        width: 100%;
+        margin-left: 0 !important;
+    }
+    /* Main-content-Provably-fair */
+        /* Main-content */
+        .anzif9ur92ine {
+            max-width: 100%;
+        }
+        .jo209OJKNFWxn {
+            margin-top: 7.8em !important;
+            /* margin-left: 0; */
+            margin-right: auto;
+            margin-left: auto !important;
+            width: 100%;
+        }
+        .jo209OJKNFWxn {
+            padding-top: 33px !important;
+        }
+    /* Hamburger-menu */
+    .hide{
+        display: block;
+    }
+    .rmv{
+        display: none !important;
+    }
+    /* Hamburger menu1 */
+    .iru92ojw4k2drRt > img {
+        display: block;
+        float: left;
+    }
+    .menu-bar {
+        font-size: 23px;
+        margin-bottom: 23px;
+        margin-right: 1px;
+        padding: 9px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .menu-bar:hover {
+        background: #F7F7F7;
+    }
+    .popup-window {
+        width: 0;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 999;
+        transition: .5s;
+        background: #171616;
+        overflow-y: scroll;
+    }
+    .popup-menu a {
+        display: block;
+        padding: 13px 0px;
+        text-decoration: none;
+        margin-left: 39px;
+        margin-right: 56px;
+        border-bottom: 1px solid #E2E2E2;
+        text-align: left;
+        font-size: 1rem;
+        color: #fff;
+        font-weight: 600;
+    }
+    .popup-menu a:hover{
+        color: #1A237E;
+        background: #F7F7F7;
+    }
+    .close-icon {
+        position: absolute;
+        right: 1px;
+        top: 5px;
+        font-size: 35px;
+        color: #ffff;
+        font-weight: 600;
+    }
+    /* Hamburger menu2 */
+    .coin {
+        display: block;
+        padding-left: 45px;
+    }
+    .menu-bar2 {
+        font-size: 23px;
+        margin-bottom: 23px;
+        margin-right: 1px;
+        padding: 9px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .menu-bar2:hover {
+        background: #F7F7F7;
+    }
+    .popup-window2{
+        width: 0;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        right: 0;
+        z-index: 999;
+        transition: .5s;
+        background: #161516;
+        overflow-y: scroll;
+    }
+    .coin-wrapper {
+        display: grid;
+        grid-template-columns: auto;
+        align-items: center;
+        grid-gap: 25px;
+    }
+    #depositheader {
+        right: 25%;
+        position: absolute;
+        top: 53px;
+    }
+    .coin-item2 {
+        margin-left: 36px;
+        margin-top: 67px;
+        background: #141313;
+        padding: 8px;
+        width: 79%;
+        border-radius: 5px;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .coin-item3 {
+        margin-left: 91px;
+    }
+    .close-icon2 {
+        position: absolute;
+        left: 1px;
+        top: 5px;
+        font-size: 35px;
+        color: #ffff;
+        font-weight: 600;
+    }
+    /* Hamburger menu3 */
+    .rmv{
+        display: none !important;
+    }
+    .gi392ikdaolrRff {
+        position: absolute !important;
+        height: 89%;
+    }
+    .overallcontent {
+        position: relative;
+    }
+    .menu-bar3 {
+        position: absolute;
+        font-size: 26px;
+        margin-bottom: 0;
+        margin-right: 1px;
+        padding: 9px;
+        border-radius: 5px;
+        cursor: pointer;
+        padding-top: 0;
+        top: 115px;
+        z-index: 2;
+    }
+    .menu-bar3:hover {
+        background: #F7F7F7;
+    }
+    .popup-window3 {
+        width: 0;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 999;
+        transition: .5s;
+        background: #151517;
+        overflow-y: scroll;
+    }
+    .close-icon3 {
+        position: absolute;
+        right: 7px;
+        top: 5px;
+        font-size: 35px;
+        color: #ffff;
+        font-weight: 600;
+    }
+    /* Hamburger menu4 */
+    .chatwdt530u25hnfr {
+        position: absolute !important;
+    }
+    .mrgposrg95u4whnw {
+        position: absolute !important;
+    }
+    .menu-bar4 {
+        position: absolute;
+        font-size: 26px;
+        margin-bottom: 0;
+        margin-right: 1px;
+        padding: 9px;
+        border-radius: 5px;
+        cursor: pointer;
+        right: 0;
+        top: 115px;
+        padding-top: 0;
+        z-index: 2;
+    }
+    .menu-bar4:hover {
+        background: #F7F7F7;
+    }
+    .popup-window4{
+        width: 0;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        right: 0;
+        z-index: 9;
+        transition: .5s;
+        background:#161619;
+        overflow-y: scroll;
+    }
+    .close-icon4 {
+        position: absolute;
+        left: 1px;
+        top: 5px;
+        font-size: 35px;
+        color: #ffff;
+        font-weight: 600;
+    }
+}
