@@ -1,0 +1,10 @@
+Here is your job I've done.If you pace any issue please inform me,I will try to resolve it.
+
+You can check it from your mobile or other device by visiting the following links:
+
+https://hammadcse.github.io/Responsive/teamjackpot.html
+
+https://hammadcse.github.io/Responsive/coinflip.html
+
+
+I have added a page named season to your file on the delivery page, it is only to show my portfolio
